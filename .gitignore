@@ -2,10 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.idea
-.replit
-.pyproject.toml
-poetry.lock
 
 # C extensions
 *.so
@@ -140,4 +136,3 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-.DS_Store
