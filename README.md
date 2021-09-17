@@ -15,7 +15,7 @@ pip install -r requirements.txt
 HOST=host
 PORT=port
 NAME=name
-USER=eser
+USER=user
 PASSWORD=password
 SECRET_KEY=key
 DEBUG=False
